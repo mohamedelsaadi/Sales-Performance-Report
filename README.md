@@ -24,3 +24,6 @@ Visual Insights:
 • Total Profit by Channel Name: Analyzing which channels contribute the most to profitability.
 
 -- This project was an incredible learning experience, and I’m thrilled to see how data-driven insights can drive better decision-making and strategy development.
+![25 08 2024_17 51 30_REC](https://github.com/user-attachments/assets/531ba40f-0f0b-4727-8a5c-eb052de3939e)
+
+![25 08 2024_17 52 06_REC](https://github.com/user-attachments/assets/e8f96ec2-7c46-4228-aff3-6fe2b0cb7102)
